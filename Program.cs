@@ -11,7 +11,7 @@ namespace ConsoleApplication58
         static void Main(string[] args)
         {
             Console.WriteLine("githubtest");
-
+            Console.ReadLine();
 
         }
     }
